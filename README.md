@@ -27,15 +27,15 @@ This course consists of 7 lessons with 3 code examples:
    - Challenges with large-scale AI models
    - Introduction to compression techniques
 
-3. [**Data Types and Size**](https://github.com/duybaohuynhtan/Quantization-Fundamentals-with-Hugging-Face/tree/master/03.%20Data%20Types%20and%20Sizes)
+3. **Data Types and Size**
    - Understanding different numerical precision (FP32, BF16, INT8, etc.)
    - Impact of data types on model size and performance
 
-4. [**Loading Models by Data Type**](https://github.com/duybaohuynhtan/Quantization-Fundamentals-with-Hugging-Face/tree/master/04.%20Loading%20Models%20by%20data%20type)
+4. **Loading Models by Data Type**
    - Using Transformers library to load models with different data types
    - Practical exercise on model downcasting
 
-5. [**Quantization Theory**](https://github.com/duybaohuynhtan/Quantization-Fundamentals-with-Hugging-Face/tree/master/05.%20Quantization%20Theory)
+5. **Quantization Theory**
    - Mathematical foundations of quantization
    - Understanding quantization parameters
    - Implementation with the Quanto library
@@ -50,14 +50,17 @@ This course consists of 7 lessons with 3 code examples:
 
 The repository includes hands-on code examples:
 
-1. **Downcasting with Transformers**
-   - Loading models in BFloat16 format to reduce memory usage
+1. [**Data Types and Sizes**](https://github.com/duybaohuynhtan/Quantization-Fundamentals-with-Hugging-Face/tree/master/03.%20Data%20Types%20and%20Sizes)
+   - Exploring different numerical precision formats
+   - Comparing memory requirements for various data types
 
-2. **Linear Quantization Implementation**
-   - Step-by-step implementation of linear quantization
+2. [**Loading Models by Data Type**](https://github.com/duybaohuynhtan/Quantization-Fundamentals-with-Hugging-Face/tree/master/04.%20Loading%20Models%20by%20data%20type)
+   - Techniques for loading models efficiently with Transformers
+   - Downcasting models to BFloat16 for reduced memory usage
 
-3. **Quantizing Open Source Models**
-   - Practical examples of quantizing various model architectures
+3. [**Quantization Theory**](https://github.com/duybaohuynhtan/Quantization-Fundamentals-with-Hugging-Face/tree/master/05.%20Quantization%20Theory)
+   - Implementation of linear quantization principles
+   - Hands-on application of quantization algorithms
 
 ## 🚀 Getting Started
 
