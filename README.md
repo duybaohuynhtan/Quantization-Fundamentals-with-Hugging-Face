@@ -1,7 +1,7 @@
 # Quantization Fundamentals with Hugging Face
 
 [![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Short%20Course-blue)](https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformer-yellow)](https://huggingface.co)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow)](https://huggingface.co)
 
 This repository contains materials and exercises from the DeepLearning.AI short course "Quantization Fundamentals with Hugging Face", instructed by Younes Belkada and Marc Sun.
 
