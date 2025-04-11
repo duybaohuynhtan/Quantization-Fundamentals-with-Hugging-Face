@@ -106,8 +106,8 @@ Then navigate to the notebooks directory and open the desired example.
 
 ## 👨‍🏫 Instructors
 
-- **Younes Belkada** - Machine Learning Engineer at Hugging Face
-- **Marc Sun** - Machine Learning Engineer at Hugging Face
+- [**Younes Belkada**](https://www.linkedin.com/in/younes-belkada-b1a903145/?locale=en_US) - Machine Learning Engineer at Hugging Face
+- [**Marc Sun**](https://www.linkedin.com/in/marc-sun/) - Machine Learning Engineer at Hugging Face
 
 ## 🙏 Acknowledgments
 
